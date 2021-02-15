@@ -1,0 +1,14 @@
+{
+  "name": "percobaan_pertama",
+  "version": "1.0.0",
+  "description": "Rhezaldi Irnantyo Irawan 1841720164",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "liscense percobaan pertama mata kuliah Pemrograman Berbasis Framework",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.1"
+  }
+}
