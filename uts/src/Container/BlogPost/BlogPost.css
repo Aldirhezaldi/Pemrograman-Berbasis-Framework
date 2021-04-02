@@ -1,0 +1,10 @@
+.gambar-artikel img{
+    width: 100px;
+    height: 95px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 12px;
+    margin-bottom: auto;
+
+}

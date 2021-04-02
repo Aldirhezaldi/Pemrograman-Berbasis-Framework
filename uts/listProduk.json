@@ -1,0 +1,92 @@
+{
+  "produk": [
+    {
+      "userId": 1,
+      "id": 1,
+      "namaproduk": "Kulkas ELECTROLUX ETB5400B-A / ETB 5400B-A / ETB 5400 B-A",
+      "harga": 11799000,
+      "gambar": "1.jpg",
+      "stok": 1
+    },
+    {
+      "userId": 2,
+      "id": 2,
+      "namaproduk": "Kulkas 2 Pintu Sharp 195 MD SG SR 200L Low Watt Tanpa Bunga Es",
+      "harga": 2550000,
+      "gambar": "2.jpg",
+      "stok": 1
+    },
+    {
+      "userId": 3,
+      "id": 3,
+      "namaproduk": "Kulkas 1 Pintu Sharp Sjx 167 Shine Door 133 L Semi Defrost",
+      "harga": 1560000,
+      "gambar": "3.jpg",
+      "stok": 1
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "namaproduk": "LG Kulkas 2 Pintu GN-B195SQMT Smart Inverter Lemari Es Tray Ice Maker",
+      "harga": 3198000,
+      "gambar": "4.jpg",
+      "stok": 1
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "namaproduk": "Sharp Kulkas 1 Pintu SJ-X165MG-GB-GR Shine Magneglas Series - Biru",
+      "harga": 1559000,
+      "gambar": "5.jpg",
+      "stok": 1
+    },
+    {
+      "userId": 1,
+      "id": 6,
+      "namaproduk": "KULKAS SATU PINTU AQUA - AQR-D181",
+      "harga": 1494000,
+      "gambar": "6.jpg",
+      "stok": 1
+    },
+    {
+      "userId": 1,
+      "id": 7,
+      "namaproduk": "AQUA KULKAS 1 PINTU AQR-D191",
+      "harga": 1655000,
+      "gambar": "7.jpg",
+      "stok": 1
+    },
+    {
+      "userId": 1,
+      "id": 8,
+      "namaproduk": "LG - SMALL 2 DOOR REFRIGERATOR GNB195SQMT",
+      "harga": 2949000,
+      "gambar": "8.jpg",
+      "stok": 1
+    },
+    {
+      "userId": 1,
+      "id": 9,
+      "namaproduk": "POLYTRON - SHOWCASE SCN231L",
+      "harga": 3149000,
+      "gambar": "9.jpg",
+      "stok": 1
+    },
+    {
+      "userId": 1,
+      "id": 10,
+      "namaproduk": "SHARP - SMALL 2 DOOR REFRIGERATOR SJ197NDVB",
+      "harga": 2439000,
+      "gambar": "10.jpg",
+      "stok": 1
+    },
+    {
+      "userId": 1,
+      "id": 11,
+      "namaproduk": "SHARP - ONE DOOR REFRIGERATOR SJN162DAS",
+      "harga": 1529000,
+      "gambar": "11.jpg",
+      "stok": 1
+    }
+  ]
+}
