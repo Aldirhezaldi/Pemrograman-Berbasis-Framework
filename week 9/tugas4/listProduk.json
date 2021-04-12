@@ -1,0 +1,44 @@
+{
+    "produk": [
+      {
+        "userId": 1,
+        "id": 1,
+        "namaproduk": "Kulkas ELECTROLUX ETB5400B-A / ETB 5400B-A / ETB 5400 B-A",
+        "harga": "Rp11.799.000",
+        "gambar": "-",
+        "stok": 2
+      },
+      {
+        "userId": 2,
+        "id": 2,
+        "namaproduk": "Kulkas 2 Pintu Sharp 195 MD SG SR 200L Low Watt Tanpa Bunga Es",
+        "harga": "Rp2.550.000",
+        "gambar": "-",
+        "stok": 3
+      },
+      {
+        "userId": 3,
+        "id": 3,
+        "namaproduk": "Kulkas 1 Pintu Sharp Sjx 167 Shine Door 133 L Semi Defrost",
+        "harga": "Rp1.560.000",
+        "gambar": "-",
+        "stok": 3
+      },
+      {
+        "userId": 1,
+        "id": 4,
+        "namaproduk": "LG Kulkas 2 Pintu GN-B195SQMT Smart Inverter Lemari Es Tray Ice Maker",
+        "harga": "Rp3.198.000",
+        "gambar": "-",
+        "stok": 4
+      },
+      {
+        "userId": 1,
+        "id": 5,
+        "namaproduk": "Sharp Kulkas 1 Pintu SJ-X165MG-GB-GR Shine Magneglas Series - Biru",
+        "harga": "Rp1.559.000",
+        "gambar": "-",
+        "stok": 1
+      }
+    ]
+  }
